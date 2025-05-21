@@ -1,2 +1,2 @@
 # RRVT
-React Rener Visualization Tool
+React Render Visualization Tool
